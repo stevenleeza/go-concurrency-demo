@@ -10,3 +10,5 @@ make run
 
 This command will build and run a Docker image and attach your local terminal to the container's terminal.
 Once attached, press the spacebar key on your keyboard to view and interact with the CLI app.
+
+> **_NOTE:_** Requires Docker 20.0+
